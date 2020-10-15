@@ -8,3 +8,6 @@ plugins:
 - jekyll-paginate
 
 disqus: estasleyendoesto
+
+show_downloads: true
+
