@@ -11,7 +11,8 @@ permalink: /indice/
 ## Django
 > Nada que comentar...
 - EtcEtc.
-- EtcEtcEtc.
+  - EtcEtcEtc.
+- Etc.
 
 # JavaScript
 - Etc.
