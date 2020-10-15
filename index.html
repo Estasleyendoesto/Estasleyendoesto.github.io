@@ -11,10 +11,10 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %} 
-    <a class="previous" href="{{ paginator.previous_page_path }}"> Volver </a> 
+    <a class="previous" href="{{ paginator.previous_page_path }}">_Volver_</a> 
   {% endif %} 
   <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }} </span> 
   {% if paginator.next_page %}
-  <a class="next" href="{{ paginator.next_page_path }}">Siguiente</a>
+  <a class="next" href="{{ paginator.next_page_path }}">_Siguiente_</a>
   {% endif %}
 </div>
