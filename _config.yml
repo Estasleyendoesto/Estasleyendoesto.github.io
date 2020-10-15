@@ -6,3 +6,5 @@ theme: jekyll-theme-hacker
 paginate: 10
 plugins:
 - jekyll-paginate
+
+disqus: estasleyendoesto
