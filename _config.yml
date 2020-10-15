@@ -3,7 +3,7 @@ description: Para la documentación mal hecha
 
 theme: jekyll-theme-hacker
 
-paginate: 10
+paginate: 20
 plugins:
 - jekyll-paginate
 
