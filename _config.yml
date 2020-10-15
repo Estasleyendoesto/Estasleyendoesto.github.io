@@ -9,7 +9,7 @@ plugins:
 
 disqus: estasleyendoesto
 
-show_downloads: true
+show_downloads: false
 
 github:
   otra_url: www.manga.com
