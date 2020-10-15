@@ -34,13 +34,17 @@ header {
 }
 
 .post_title {
-  font-size: 34px;
-  color: #d0d8db;
+  font-size: 34px !Important;
+  color: #37a7db;
 }
 
 .post_title small {
   font-size: 20px;
-  color: #37a7db;
+  color: #5C6370;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d0d8db !Important;
 }
 
 #disqus_thread {
