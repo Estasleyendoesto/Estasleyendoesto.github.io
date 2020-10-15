@@ -10,6 +10,7 @@ permalink: /indice/
 
 ## Django
 > Nada que comentar...
+
 - EtcEtc.
   - EtcEtcEtc.
 - Etc.
