@@ -2,3 +2,33 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+/* Custom CSS */
+header {
+  border-bottom: 5px dashed #f56042;
+}
+
+#header {
+  display: flex;
+}
+
+#heder {
+  margin-left: 50px;
+}
+
+#a-image img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.pagination {
+  margin-top: 50px;
+}
+
+.btn {
+  border-radius: 5px;
+  color: #4293f5;
+  background-color: rgba(121, 164, 189, 0.3);
+}
