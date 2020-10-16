@@ -17,7 +17,7 @@ Para saber qué tipo de dato contiene una variable, escribir:
 typeof _variable_
 typeof(_variable_)
 ```
-Devolverá un string indicándonos qué tipo de dato contiene la variable.
+> Devolverá un string indicándonos qué tipo de dato contiene la variable.
 
 ## Conversiones de tipos
 Para convertir un entero a string y viceversa, escribiremos:
@@ -31,7 +31,6 @@ num = Number(null)      // 0
 num = Number('123')     // 123
 num = Number(true)      // 1 o 0
 num = Number('123b')    // NaN
-```
 
 /* Convierte un tipo de dato cualquiera en booleano
 *  Strings vacíos, undefined, NaN o 0 será false
@@ -39,3 +38,6 @@ num = Number('123b')    // NaN
 */
 boo = Boolean(0)
 boo = Boolean('Pepe')
+```
+
+
