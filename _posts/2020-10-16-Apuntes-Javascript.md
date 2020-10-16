@@ -61,3 +61,22 @@ let dato = 5 > 2 ? 'correcto' : 'incorrecto';
 // También podemos usar if con una sola línea, por ejemplo para llamar a una función.
 if (5 > 2) myFunction();
 ```
+
+## Operador `??`
+> Su uso solo está disponible para navegadores moderlos. Los antiguos pueden necesitar polyfills.
+
+Este operador es usado para asignar valores por defecto a las variables:
+```js
+// Asignar height=100, si height es null o undefined
+height = height ?? 100;
+
+// Otro ejemplo
+let firstName = null;
+let lastName = null;
+let nickName = "Supercoder";
+// Muestra la primera variable que no sea null/undefined
+alert(firstName ?? lastName ?? nickName ?? "Anonymous"); // retorna 'Supercoder'
+
+// El operador ?? tiene una precedencia muy baja, un poco más alta que ? y =
+// Está prohibido su uso con || y && sin paréntesis explícitos
+```
