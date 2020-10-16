@@ -40,4 +40,9 @@ boo = Boolean(0)
 boo = Boolean('Pepe')
 ```
 
+## Operadores
+```js
+// Excelente resumen de los operadores
+https://es.javascript.info/operators
+```
 
