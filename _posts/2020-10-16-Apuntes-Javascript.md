@@ -44,3 +44,17 @@ boo = Boolean('Pepe')
 > Excelente resumen de los operadores:
   https://es.javascript.info/operators
 
+## Operador ternario ``?``
+Es una forma resumida de `if/else` e incluso podemos anidarlo como `elseif` pero no lo recomiendo por ser poco legible. Quedémonos solo en usarlo como reemplazo de `if/else`.
+```js
+// Forma tradicional
+let dato = '';
+if (5 > 2){
+  dato = 'correcto';
+} else {
+  dato = 'Incorrecto';
+}
+
+// Operador ternario "?"
+let dato = 5 > 2 ? 'correcto' : 'incorrecto';
+```
