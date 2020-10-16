@@ -57,4 +57,7 @@ if (5 > 2){
 
 // Operador ternario "?"
 let dato = 5 > 2 ? 'correcto' : 'incorrecto';
+
+// También podemos usar if con una sola línea, por ejemplo para llamar a una función.
+if (5 > 2) myFunction();
 ```
