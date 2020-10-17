@@ -1,7 +1,17 @@
 ---
 layout: post
-title: "Apuntes de Javascript"
+title: "Javascript"
 ---
+
+# Esenciales
+- [Estructura del código](https://es.javascript.info/javascript-specials#estructura-de-codigo)
+- [Modo estricto](https://es.javascript.info/javascript-specials#modo-estricto)
+- [Variables](https://es.javascript.info/javascript-specials#variables)
+- [Interacción](https://es.javascript.info/javascript-specials#interaccion)
+- [operadores](https://es.javascript.info/javascript-specials#operadores)
+- [Bucles](https://es.javascript.info/javascript-specials#bucles)
+- [Switch](https://es.javascript.info/javascript-specials#el-constructo-switch)
+- [Funciones](https://es.javascript.info/javascript-specials#funciones)
 
 # Use strict
 Para poder usar las versiones modernas de Javascript dentro de las funciones y el documento es Javascript antiguo. Escribir en la primera línea de la función:
