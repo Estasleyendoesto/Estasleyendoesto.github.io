@@ -80,3 +80,23 @@ alert(firstName ?? lastName ?? nickName ?? "Anonymous"); // retorna 'Supercoder'
 // El operador ?? tiene una precedencia muy baja, un poco más alta que ? y =
 // Está prohibido su uso con || y && sin paréntesis explícitos
 ```
+
+## Switch
+Una sentencia switch puede reemplazar múltiples condiciones if. Provee una mejor manera de comparar un valor con múltiples variantes.
+```js
+// x es una variable
+// Puede ser numérico, string o booleano.
+// Los case deben tener su mismo tipo de dato.
+switch(x){
+  case 0:
+    console.log();
+    break;
+  case 1:          // Podemos agrupar varios case que compartan
+  case 2:          // el mismo código.
+    console.log();
+    break;
+  default:
+    console.log();
+    break;
+}
+```
