@@ -3,14 +3,14 @@ layout: post
 title: "Apuntes de Javascript"
 ---
 
-## Use strict
+# Use strict
 Para poder usar las versiones modernas de Javascript dentro de las funciones y el documento es Javascript antiguo. Escribir en la primera línea de la función:
 ```js
 'use strict';
 ```
 > En caso que el documento tenga Javascript moderno, no es necesario incluir esta instrucción. En caso de querer incrustarlo, en la primera línea del documento.
 
-## Typeof
+# Typeof
 Para saber qué tipo de dato contiene una variable, escribir:
 ```js
 // Cualquiera de las dos formas es válida
@@ -19,7 +19,7 @@ typeof(_variable_)
 ```
 > Devolverá un string indicándonos qué tipo de dato contiene la variable.
 
-## Conversiones de tipos
+# Conversiones de tipos
 Para convertir un entero a string y viceversa, escribiremos:
 ```js
 // Convierte un tipo de dato cualquiera a string
@@ -40,11 +40,11 @@ boo = Boolean(0)
 boo = Boolean('Pepe')
 ```
 
-## Operadores
+# Operadores
 > Excelente resumen de los operadores:
   https://es.javascript.info/operators
 
-## Operador ternario ``?``
+# Operador ternario ``?``
 Es una forma resumida de `if/else` e incluso podemos anidarlo como `elseif` pero no lo recomiendo por ser poco legible. Quedémonos solo en usarlo como reemplazo de `if/else`.
 ```js
 // Forma tradicional
@@ -62,7 +62,7 @@ let dato = 5 > 2 ? 'correcto' : 'incorrecto';
 if (5 > 2) myFunction();
 ```
 
-## Operador `??`
+# Operador `??`
 > Su uso solo está disponible para navegadores moderlos. Los antiguos pueden necesitar polyfills.
 
 Este operador es usado para asignar valores por defecto a las variables:
@@ -81,7 +81,7 @@ alert(firstName ?? lastName ?? nickName ?? "Anonymous"); // retorna 'Supercoder'
 // Está prohibido su uso con || y && sin paréntesis explícitos
 ```
 
-## Switch
+# Switch
 Una sentencia switch puede reemplazar múltiples condiciones if. Provee una mejor manera de comparar un valor con múltiples variantes.
 ```js
 // x es una variable
@@ -101,7 +101,7 @@ switch(x){
 }
 ```
 
-## Funciones
+# Funciones
 > https://es.javascript.info/function-basics
 > https://es.javascript.info/function-expressions
 
@@ -112,12 +112,16 @@ let saludo = function(){
 };    // Recordar el ";" pues estamos declarando una variable.
 
 let saludo2 = saludo // podemos copiar una variable con su función
+```
 
+# Functiones Callbacks
+Las funciones callback son funciones que se incluyen en los parámetros de otra función como si de una variable se tratara.
+Y dentro de la lógica de esa función, al incluirle los paréntesis al parámetro, estamos llamando a la función.
 
-// Callbacks
-function pescar(ask, yes, no) {
-  if (confirm(ask)) yes()
-  else no();
+```js
+function pregunta(ask, yes, no) {
+  if (confirm(ask)) yes()   // Según la lógica le incluimos los paréntesis
+  else no();                // y es invocada la función.
 }
 
 function meGusta() {
@@ -129,8 +133,29 @@ function noMeGusta() {
 }
 
 // Las funciones son variables que retornan undefined
-// Al incluirles los paréntesis los estamos invocando
-pescar('¿Te gusta pescar?', meGusta, noMeGusta);
+// Al no incluirle los paréntesis, no las estamos llamando.
+pregunta('¿Te gusta pescar?', meGusta, noMeGusta);
+```
+
+# Functiones de flecha
+Las funciones de flecha son lo mismo que las funciones tradicionales asignadas a una variable, con la diferencia de ser más corta.
+Pero necesitan de un return si es multilínea. Además que no tiene el this ni el new, por lo que los cogería de la clase padre.
+A diferencia de una función normal que sí tiene this y new y no puede cogerlos del padre, porque pertenecen a una variable.
+
+```js
+// Forma tradicional (this y new no podrán obtener del padre)
+let dato = function() {
+  alert('Soy un dato');
+}
+
+// Función de flecha a una línea
+let dato2 = () => alert('Soy un dato2');
+
+// Función de flecha multilínea
+let dato3 = (arg1, argEtc) => {
+  alert('Soy un dato con argumentos');
+  return;
+};
 ```
 
 
