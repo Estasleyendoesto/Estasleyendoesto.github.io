@@ -16,6 +16,7 @@ title: "Javascript"
 - [Buenas prácticas en el anidamiento](https://es.javascript.info/coding-style#niveles-anidados)
 - [Guías de estilo para un código más legible](https://es.javascript.info/coding-style#niveles-anidados)
 - [Comentarios correctos](https://es.javascript.info/comments#comentarios-correctos)
+- [Cómo escribir código ninja](https://es.javascript.info/ninja-code)
 
 
 # Typeof
