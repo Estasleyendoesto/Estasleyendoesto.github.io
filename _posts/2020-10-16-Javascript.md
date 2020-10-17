@@ -3,7 +3,7 @@ layout: post
 title: "Javascript"
 ---
 
-# Esenciales
+# Conocimientos esenciales
 - [Estructura del código](https://es.javascript.info/javascript-specials#estructura-de-codigo)
 - [Modo estricto](https://es.javascript.info/javascript-specials#modo-estricto)
 - [Variables](https://es.javascript.info/javascript-specials#variables)
@@ -13,12 +13,6 @@ title: "Javascript"
 - [Switch](https://es.javascript.info/javascript-specials#el-constructo-switch)
 - [Funciones](https://es.javascript.info/javascript-specials#funciones)
 
-# Use strict
-Para poder usar las versiones modernas de Javascript dentro de las funciones y el documento es Javascript antiguo. Escribir en la primera línea de la función:
-```js
-'use strict';
-```
-> En caso que el documento tenga Javascript moderno, no es necesario incluir esta instrucción. En caso de querer incrustarlo, en la primera línea del documento.
 
 # Typeof
 Para saber qué tipo de dato contiene una variable, escribir:
@@ -49,10 +43,6 @@ num = Number('123b')    // NaN
 boo = Boolean(0)
 boo = Boolean('Pepe')
 ```
-
-# Operadores
-> Excelente resumen de los operadores:
-  https://es.javascript.info/operators
 
 # Operador ternario ``?``
 Es una forma resumida de `if/else` e incluso podemos anidarlo como `elseif` pero no lo recomiendo por ser poco legible. Quedémonos solo en usarlo como reemplazo de `if/else`.
@@ -111,22 +101,8 @@ switch(x){
 }
 ```
 
-# Funciones
-> https://es.javascript.info/function-basics
-> https://es.javascript.info/function-expressions
-
-```js
-// Podemos crear una variable con una función en su interior
-let saludo = function(){
-  return 'Hola';
-};    // Recordar el ";" pues estamos declarando una variable.
-
-let saludo2 = saludo // podemos copiar una variable con su función
-```
-
 # Functiones Callbacks
-Las funciones callback son funciones que se incluyen en los parámetros de otra función como si de una variable se tratara.
-Y dentro de la lógica de esa función, al incluirle los paréntesis al parámetro, estamos llamando a la función.
+> https://es.javascript.info/function-expressions#funciones-callback
 
 ```js
 function pregunta(ask, yes, no) {
@@ -148,9 +124,7 @@ pregunta('¿Te gusta pescar?', meGusta, noMeGusta);
 ```
 
 # Functiones de flecha
-Las funciones de flecha son lo mismo que las funciones tradicionales asignadas a una variable, con la diferencia de ser más corta.
-Pero necesitan de un return si es multilínea. Además que no tiene el this ni el new, por lo que los cogería de la clase padre.
-A diferencia de una función normal que sí tiene this y new y no puede cogerlos del padre, porque pertenecen a una variable.
+> https://es.javascript.info/arrow-functions-basics
 
 ```js
 // Forma tradicional (this y new no podrán obtener del padre)
