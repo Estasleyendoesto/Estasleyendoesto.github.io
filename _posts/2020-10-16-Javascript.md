@@ -17,6 +17,7 @@ title: "Javascript"
 - [Guías de estilo para un código más legible](https://es.javascript.info/coding-style#niveles-anidados)
 - [Comentarios correctos](https://es.javascript.info/comments#comentarios-correctos)
 - [Cómo escribir código ninja](https://es.javascript.info/ninja-code)
+- [Cómo hacer test con mocha](https://es.javascript.info/testing-mocha)
 
 
 # Typeof
