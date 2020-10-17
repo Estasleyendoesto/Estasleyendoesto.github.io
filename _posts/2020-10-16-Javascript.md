@@ -18,6 +18,7 @@ title: "Javascript"
 - [Comentarios correctos](https://es.javascript.info/comments#comentarios-correctos)
 - [Cómo escribir código ninja](https://es.javascript.info/ninja-code)
 - [Cómo hacer test con mocha](https://es.javascript.info/testing-mocha)
+- [Traducir código moderno a antiguo para la compatibilidad](https://es.javascript.info/polyfills)
 
 
 # Typeof
