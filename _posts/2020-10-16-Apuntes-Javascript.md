@@ -100,3 +100,39 @@ switch(x){
     break;
 }
 ```
+
+## Funciones
+> https://es.javascript.info/function-basics
+> https://es.javascript.info/function-expressions
+
+```js
+// Podemos crear una variable con una función en su interior
+let saludo = function(){
+  return 'Hola';
+};    // Recordar el ";" pues estamos declarando una variable.
+
+let saludo2 = saludo // podemos copiar una variable con su función
+
+
+// Callbacks
+function pescar(ask, yes, no) {
+  if (confirm(ask)) yes()
+  else no();
+}
+
+function meGusta() {
+    alert('Me gusta pescar');
+}
+
+function noMeGusta() {
+  alert('No me gusta pescar');
+}
+
+// Las funciones son variables que retornan undefined
+// Al incluirles los paréntesis los estamos invocando
+pescar('¿Te gusta pescar?', meGusta, noMeGusta);
+```
+
+
+
+
