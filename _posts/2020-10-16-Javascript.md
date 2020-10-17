@@ -13,6 +13,8 @@ title: "Javascript"
 - [Switch](https://es.javascript.info/javascript-specials#el-constructo-switch)
 - [Funciones](https://es.javascript.info/javascript-specials#funciones)
 - [Debugging](https://es.javascript.info/debugging-chrome)
+- [Buenas prácticas en el anidamiento](https://es.javascript.info/coding-style#niveles-anidados)
+- [Guías de estilo para un código más legible](https://es.javascript.info/coding-style#niveles-anidados)
 
 
 # Typeof
