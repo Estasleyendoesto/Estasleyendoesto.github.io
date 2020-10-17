@@ -12,6 +12,7 @@ title: "Javascript"
 - [Bucles](https://es.javascript.info/javascript-specials#bucles)
 - [Switch](https://es.javascript.info/javascript-specials#el-constructo-switch)
 - [Funciones](https://es.javascript.info/javascript-specials#funciones)
+- [Debugging](https://es.javascript.info/debugging-chrome)
 
 
 # Typeof
