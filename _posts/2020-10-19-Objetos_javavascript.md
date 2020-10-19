@@ -4,16 +4,16 @@ title: "Objetos en Javascript"
 ---
 
 # Declaración
-´´´js
+```js
 let user = {
   name : 'Pepe',
   age  : 89,
   'estado social': 'soltero',
 };
-´´´
+```
 
 # Modificación, agregado, borrado y acceso
-´´´js
+```js
 // Modificación
 user.name = 'Julián';
 user['age'] = 91;
@@ -27,7 +27,7 @@ delete user.soltero;
 
 // Acceso
 alert( 'Bienvenido ' + user.name );
-´´´
+```
 
 # Agregación dinámica
 ```js
@@ -44,5 +44,10 @@ frutas[fruta] = 2;
 
 # Construcor
 ```js
-
+function makeUser(name, age) {
+  return {
+    name,
+    age,
+  };
+}
 ```
