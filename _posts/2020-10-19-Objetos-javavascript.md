@@ -3,6 +3,10 @@ layout: post
 title: "Objetos en Javascript"
 ---
 
+Los objetos en JavaScript son por referencia. A diferencia de una variable, si hacemos una copia como `let nombre2 = nombre` la variable `nombre2` es una copia de `nombre`.
+Pero con los objetos es distinto. La copia de un objeto como `let user2 = user` no existe. Si hacemos un cambio en una propiedad de `user2`, `user` también se vería afectado
+y viceversa.
+
 # Declaración
 ```js
 let user = {
@@ -65,4 +69,13 @@ makeUser('Rodolfo', 71);
  for prop in user:
     console.log( prop );       // claves
     console.log( user[prop] ); // valor
+```
+
+# Clonar un objeto
+```js
+// Podemos clonar un objeto, de forma que sea único y no comparta dirección de memoria.
+let clon = Object.assign({}, user);
+
+// También podemos copiar las propiedades de otros objetos y asignarlas a otra
+Object.assign(user, obj1, obj2, ... ) // '...' -> n objetos
 ```
