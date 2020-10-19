@@ -44,10 +44,11 @@ frutas[fruta] = 2;
 
 # Construcor
 ```js
-function makeUser(name, age) {
+function makeUser(name, age, casado) {
   return {
     name,
     age,
+    casado : false,
   };
 }
 
