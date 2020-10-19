@@ -50,4 +50,6 @@ function makeUser(name, age) {
     age,
   };
 }
+
+makeUser('Rodolfo', 71);
 ```
