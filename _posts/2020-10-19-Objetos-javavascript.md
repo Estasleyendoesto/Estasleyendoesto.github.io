@@ -54,3 +54,15 @@ function makeUser(name, age, casado) {
 
 makeUser('Rodolfo', 71);
 ```
+
+# Operador in
+```js
+ // Comprobar existencia, 2 formas:
+ if (user.name) alert( user.name );
+ if (name in user) alert( user.name );
+ 
+ // Bucle for para iterar propiedades
+ for prop in user:
+    console.log( prop );       // claves
+    console.log( user[prop] ); // valor
+```
