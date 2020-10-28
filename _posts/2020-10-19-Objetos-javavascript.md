@@ -119,3 +119,25 @@ let user = {
 };
 user.saludo();
 ```
+
+# Encadenamiento
+Este enfoque es ampliamente usado entre las librerías JavaScript.
+```js
+ let ladder = {
+  step: 0,
+  up() {
+    this.step++;
+    return this; // Permite el encadenamiento
+  },
+  down() {
+    this.step--;
+    return this;
+  },
+  showStep: function() { // muestra el peldaño actual
+    alert( this.step );
+    return this;
+  }
+};
+// Encadenamiento
+ladder.up().up().down().showStep(); // 1
+```
