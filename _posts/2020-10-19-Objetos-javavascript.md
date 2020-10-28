@@ -79,3 +79,43 @@ let clon = Object.assign({}, user);
 // También podemos copiar las propiedades de otros objetos y asignarlas a otra
 Object.assign(user, obj1, obj2, ... ) // '...' -> n objetos
 ```
+
+# This
+This toma como referencia los parámetros del objeto padre dentro de las funciones. Pero solo en el primer nivel. Del segundo nivel hacia adelante se recomienda el uso del puntero que siempre tomará como referencia los parámetros del padre.
+```js
+// Forma tradicional del uso de this
+let user = {
+  name: 'Pepe',
+  lastname: 'Romero',
+  saludo(){
+    console.log(this.name, this.lastname);
+  }
+};
+saludo();
+
+// Uso incorrecto de this
+let user = {
+  name: 'Pepe',
+  lastname: 'Romero',
+  saludo(){
+    let porConsola = function(){
+      console.log(this.name, this.lastname); // this no referencia al objeto raíz
+    }
+    porConsola();
+  }
+};
+saludo();
+
+// Alternativa para referenciar a la raíz mediante la flecha =>
+let user = {
+  name: 'Pepe',
+  lastname: 'Romero',
+  saludo(){
+    let porConsola = () => {
+      console.log(this.name, this.lastname); // this siempre referenciará al objeto raíz
+    }
+    porConsola();
+  }
+};
+saludo();
+```
