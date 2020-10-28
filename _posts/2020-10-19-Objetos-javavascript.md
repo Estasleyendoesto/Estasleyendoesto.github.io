@@ -91,7 +91,7 @@ let user = {
     console.log(this.name, this.lastname);
   }
 };
-saludo();
+user.saludo();
 
 // Uso incorrecto de this
 let user = {
@@ -104,7 +104,7 @@ let user = {
     porConsola();
   }
 };
-saludo();
+user.saludo();
 
 // Alternativa para referenciar a la raíz mediante la flecha =>
 let user = {
@@ -117,5 +117,5 @@ let user = {
     porConsola();
   }
 };
-saludo();
+user.saludo();
 ```
