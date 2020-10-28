@@ -43,6 +43,11 @@ num = Number('123')     // 123
 num = Number(true)      // 1 o 0
 num = Number('123b')    // NaN
 
+// Alternativa al uso de Number con el operador +
+num = +'123'            // 123
+num = +true             // 1
+num = +'asda'           // NaN
+
 /* Convierte un tipo de dato cualquiera en booleano
 *  Strings vacíos, undefined, NaN o 0 será false
 *  Todo lo que tenga algún tipo de contenido será true
