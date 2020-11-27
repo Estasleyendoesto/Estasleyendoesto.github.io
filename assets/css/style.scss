@@ -110,8 +110,12 @@ blockquote {
   border-left: 5px solid #d1d1d1 !important;
 }
 
+ul li {
+  list-style-image: url("../images/ball.png");
+}
+
 li {
-  margin: 10px 0;
+  margin: 12px 0;
 }
 
 /*
