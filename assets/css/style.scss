@@ -110,13 +110,23 @@ blockquote {
   border-left: 5px solid #d1d1d1 !important;
 }
 
+li {
+  margin: 10px 0;
+}
+
+/*
+ * Indice
+ * ----------------------------*/
+
 .goblin {
-  color: #b5e853 !Important;
+  margin-top: 0 !important;
+  color: #db5858 !Important;
   font-size: 42px !Important;
 }
 
 .index h1, .index h2, .index h3, .index h4, .index h5, .index h6 {
-  color: #b5e853 !Important;
+  margin-top: 20px;
+  color: #37a7db !Important;
 }
 
 #disqus_thread {
