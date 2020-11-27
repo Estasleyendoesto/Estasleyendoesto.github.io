@@ -10,9 +10,19 @@ body {
   color: #141414;
 }
 
+/*
+ * Cabecera
+ * ---------------------------------*/
+
 header {
   border-bottom: 5px dashed #f56042;
   background: #151515 url("../images/bkg.png") 0 0 !important;
+}
+
+header .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 header h1 {
@@ -36,6 +46,10 @@ header h2 {
   width: 90px;
   height: 90px;
   border-radius: 50%;
+}
+
+#downloads {
+  margin: auto 0;
 }
 
 .btn {
