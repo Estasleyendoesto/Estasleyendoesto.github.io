@@ -64,6 +64,10 @@ header h2 {
   background-color: rgba(121, 164, 189, 0.3);
 }
 
+.btn:hover {
+  text-decoration: none !important;
+}
+
 /*
  * Home
  * --------------------------- */
@@ -129,7 +133,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline !important;
+  text-decoration: underline;
 }
 
 /*
