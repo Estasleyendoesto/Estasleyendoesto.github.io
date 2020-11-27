@@ -5,8 +5,13 @@
 
 
 /* Custom CSS */
+body {
+  background-color: #fcfcfc;
+}
+
 header {
   border-bottom: 5px dashed #f56042;
+  background: #151515 url(../images/bkg.png) 0 0;
 }
 
 header h1 {
