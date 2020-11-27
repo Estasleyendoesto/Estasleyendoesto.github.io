@@ -6,13 +6,13 @@
 
 /* Custom CSS */
 body {
-  background-color: #fcfcfc;
+  background-color: #fcfcfc !important;
   color: #141414;
 }
 
 header {
   border-bottom: 5px dashed #f56042;
-  background: #151515 url(../images/bkg.png) 0 0;
+  background: #151515 url(../images/bkg.png) 0 0 !Important;
 }
 
 header h1 {
