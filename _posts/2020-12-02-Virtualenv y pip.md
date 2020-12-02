@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Virtualenv y pip"
+---
+
 # Virtualenv y pip
 
 > Este tutorial ha sido extraído de: https://j2logo.com/virtualenv-pip-librerias-python/
