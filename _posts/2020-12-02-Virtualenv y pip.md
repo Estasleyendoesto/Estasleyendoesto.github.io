@@ -3,8 +3,6 @@ layout: post
 title: "Virtualenv y pip"
 ---
 
-# Virtualenv y pip
-
 > Este tutorial ha sido extraído de: https://j2logo.com/virtualenv-pip-librerias-python/
 
 Si estás familiarizad@ con Python o estás iniciándote, es posible que en algún tutorial hayas visto que hagan uso de `virtualenv`. **Virtualenv es una herramienta que nos permite tener entornos Python totalmente separados y aislados**, de manera que el intérprete y las librerías de proyectos diferentes no entren en conflicto.
