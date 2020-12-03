@@ -3,8 +3,6 @@ layout: post
 title: "Gestión de escenas en un videojuego"
 ---
 
-# Gestión de escenas en un videojuego
-
 > Este contenido ha sido extraído de https://www.genbeta.com/desarrollo/gestionando-escenas-en-un-videojuego
 
 Un videojuego generalmente no se compone de una sola pantalla, sino que hay varias como pueden ser un menú introductorio. el mapa de nuestro juego, un menú de objetos, una pantalla de puntuaciones, etc. Estas diferentes pantallas reciben el nombre de **escenas** cada una de ella representa algo especifico de nuestro juego.
