@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Gestión de escenas en un videojuego"
+---
+
 # Gestión de escenas en un videojuego
 
 > Este contenido ha sido extraído de https://www.genbeta.com/desarrollo/gestionando-escenas-en-un-videojuego
