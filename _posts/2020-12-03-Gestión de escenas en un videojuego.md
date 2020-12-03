@@ -11,7 +11,7 @@ Un videojuego generalmente no se compone de una sola pantalla, sino que hay vari
 
 Cambiar la escena del juego puede ser algo complicado, recuerda que siempre se debe mantener el bucle de ejecución de los juegos.
 
-![](res\1366_2000.png)
+![](res/1366_2000.png)
 
 Se suele utilizar un bucle infinito que vaya manteniendo esto, pero surge el problema de que en una escena determinada de nuestro juego los eventos, la lógica y las cosas a dibujar serán unas y en otras escenas puede ser otra. Por ejemplo, en un menú habrá que gestionar como eventos si se acciona algún botón y habrá que dibujar este menú, en otra escena del juego puedes necesitar dibujar otra cosa.
 
