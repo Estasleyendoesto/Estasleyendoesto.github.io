@@ -170,17 +170,17 @@ Cuanto se multiplican dos números negativos se obtiene un positivo
 
 ## Valor absoluto
 
-El valor absoluto de un número entero coincide con su valor numérico sin tener en cuenta el signo. Se representa con unas barras verticales alrededor del número, así: |x|
+El valor absoluto de un número entero coincide con su valor numérico sin tener en cuenta el signo. Se representa con unas barras verticales alrededor del número, así: `|x|`
 
-Por ejemplo,|2| representa el valor absoluto de 2.
+Por ejemplo,`|2|` representa el valor absoluto de 2.
 
 
 
 ### cómo calcular el valor absoluto de un número
 
-- Cuando es **positivo** da como resultado el mismo número. Por ejemplo, |5| = 5
-- Cuando es **negativo** da como resultado el número opuesto. Por ejemplo, |-3| = 3
-- Cuando es **cero**,|0| = 0
+- Cuando es **positivo** da como resultado el mismo número. Por ejemplo, `|5| = 5`
+- Cuando es **negativo** da como resultado el número opuesto. Por ejemplo, `|-3| = 3`
+- Cuando es **cero**, `|0| = 0`
 
 Como puedes observar, toma siempre un valor mayor o igual que cero.
 
@@ -403,19 +403,19 @@ Si la unidad decimal es mayor o igual que ![5](https://www.superprof.es/apuntes/
 Para truncar un número decimal hasta un orden determinado se colocan las cifras anteriores a ese orden inclusive, eliminando las demás.
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4c3d2540f959f4c95f7b8d43e2f85590_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4c3d2540f959f4c95f7b8d43e2f85590_l3.png" alt="" />
 </p>
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4853c86de3c81e5ef88de38e5703dee8_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4853c86de3c81e5ef88de38e5703dee8_l3.png" alt="" />
 </p>
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-6c737b5aec7d7392157322cc03bd62ac_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-6c737b5aec7d7392157322cc03bd62ac_l3.png" alt="" />
 </p>
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-f247c0dd885a74dd5f229b7d822a46d7_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-f247c0dd885a74dd5f229b7d822a46d7_l3.png" alt="" />
 </p>
 
 
