@@ -1,4 +1,7 @@
-# Aritmética
+---
+layout: post
+title: "Aritmética"
+---
 
 Todo buen programador competente debe conocer las reglas de la aritmética. Después de todo, ¿cómo podría usar lo básico de la librería math?
 
