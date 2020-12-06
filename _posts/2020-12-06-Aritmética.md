@@ -13,7 +13,7 @@ Todo buen programador competente debe conocer las reglas de la aritmética. Desp
 - [Valor absoluto](#Valor_absoluto)
 - [Fracciones](#Fracciones)
 - [Decimales](#Decimales)
-- [Reescribir decimales como fracciones y viceversa](#Reescribir decimales como fracciones y viceversa)
+- [Reescribir decimales como fracciones y viceversa](#Reescribir_decimales_como_fracciones_y_viceversa)
 
 
 
