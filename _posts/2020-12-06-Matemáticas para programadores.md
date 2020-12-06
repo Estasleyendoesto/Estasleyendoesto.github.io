@@ -29,5 +29,5 @@ Por lo que para la programación necesitamos saber:
 - Reescribir decimales como fracciones y viceversa
 - Valor absoluto
 
-> Ir al post siguiente [este enlace](https://estasleyendoesto.github.io/2020/12/06/Aritmética.html)...
+> Ir al post siguiendo [este enlace](https://estasleyendoesto.github.io/2020/12/06/Aritmética.html)...
 
