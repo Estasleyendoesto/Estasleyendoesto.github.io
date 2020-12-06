@@ -390,11 +390,11 @@ Si la unidad decimal es mayor o igual que ![5](https://www.superprof.es/apuntes/
 </p>
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-ddf514a83f14c34837a3ab7c67a8174c_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-ddf514a83f14c34837a3ab7c67a8174c_l3.png" alt="" />
 </p>
 
 <p align="center">
-<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-b17b31bbb2aec044c69115412cf89953_l3.png" alt="" /></p>
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-b17b31bbb2aec044c69115412cf89953_l3.png" alt="" />
 </p>
 
 
