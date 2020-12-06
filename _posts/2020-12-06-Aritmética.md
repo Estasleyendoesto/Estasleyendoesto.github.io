@@ -8,9 +8,9 @@ Todo buen programador competente debe conocer las reglas de la aritmética. Desp
 
 
 - [Números naturales y negativos](#Números_naturales_y_negativos)
-- [Sumar, restar números enteros](#Sumar y restar números enteros)
-- [Multiplicar y dividir números enteros](#Multiplicar y dividir números enteros)
-- [Valor absoluto](#Valor absoluto)
+- [Sumar, restar números enteros](#Sumar_y_restar_números_enteros)
+- [Multiplicar y dividir números enteros](#Multiplicar_y_dividir_números_enteros)
+- [Valor absoluto](#Valor_absoluto)
 - [Fracciones](#Fracciones)
 - [Decimales](#Decimales)
 - [Reescribir decimales como fracciones y viceversa](#Reescribir decimales como fracciones y viceversa)
