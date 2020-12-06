@@ -194,7 +194,6 @@ Además, representa la **distancia del número al 0**. Esto es muy fácil de obs
 
 
 
-
 ## Fracciones
 
 En [matemáticas](https://es.wikipedia.org/wiki/Matemáticas), una **fracción** es la expresión de una cantidad [dividida](https://es.wikipedia.org/wiki/División_(matemáticas)) entre otra cantidad; es decir que representa un cociente no efectuado de números. Por razones históricas también se les llama *fracción común*, *fracción mixta* o *fracción decimal*. 
