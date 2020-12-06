@@ -7,13 +7,13 @@ Todo buen programador competente debe conocer las reglas de la aritmética. Desp
 
 
 
-- [Números naturales y negativos](#Números-naturales-y-negativos)
-- [Sumar, restar números enteros](#Sumar-y-restar-números-enteros)
-- [Multiplicar y dividir números enteros](#Multiplicar-y-dividir-números-enteros)
-- [Valor absoluto](#Valor-absoluto)
-- [Fracciones](#Fracciones)
-- [Decimales](#Decimales)
-- [Reescribir decimales como fracciones y viceversa](#Reescribir-decimales-como-fracciones-y-viceversa)
+- [Números naturales y negativos](#números-naturales-y-negativos)
+- [Sumar, restar números enteros](#sumar-y-restar-números-enteros)
+- [Multiplicar y dividir números enteros](#multiplicar-y-dividir-números-enteros)
+- [Valor absoluto](#valor-absoluto)
+- [Fracciones](#fracciones)
+- [Decimales](#decimales)
+- [Reescribir decimales como fracciones y viceversa](#reescribir-decimales-como-fracciones-y-viceversa)
 
 
 
