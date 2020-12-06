@@ -141,7 +141,7 @@ a {
   text-decoration: underline !important;
 }
 
-#main_content p < img {
+#main_content p:has(> img) {
   text-align: center !important;
 }
 
