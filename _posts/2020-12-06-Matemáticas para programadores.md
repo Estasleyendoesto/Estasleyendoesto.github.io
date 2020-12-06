@@ -28,7 +28,6 @@ Por lo que para la programación necesitamos saber:
 - Decimales
 - Reescribir decimales como fracciones y viceversa
 - Valor absoluto
-- Redondear
 
 > Ir al post siguiente [este enlace](https://estasleyendoesto.github.io/2020/12/06/Aritmética.html)...
 
