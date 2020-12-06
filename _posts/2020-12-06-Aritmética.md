@@ -188,8 +188,9 @@ Como puedes observar, toma siempre un valor mayor o igual que cero.
 
 Además, representa la **distancia del número al 0**. Esto es muy fácil de observar en la recta numérica:
 
+<p align="center>
 <img src="https://www.smartick.es/blog/wp-content/uploads/ValorAbsoluto_9.png" style="zoom:80%;" />
-
+</p>
 
 
 
@@ -251,20 +252,20 @@ Buscamos el mcm de dos o más números, en nuestro caso los denominadores 180 y 
 
 
 Agrupamos los números primos repetidos en exponen y obtenemos que:
-$$
-180 = 2^2 \times 5 \times 3^2
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari01.png" alt="" />
+</p>
 
-$$
-324 = 2^2 \times 3^2
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari02.png" alt="" />
+</p>
 
 
 
 Nos quedamos con los máximos exponentes e ignoramos el resto aunque se repitan y luego los multiplicamos, en este caso:
-$$
-1620 = 2^2 \times 5 \times 3^2
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari03.png" alt="" />
+</p>
 Entonces el **m.c.m** de 180 y 324 es 1620
 
 
@@ -296,19 +297,19 @@ Acabamos de hallar la fracción equivalente.
 #### Sumar y restar fracciones con distinto denominador hallando las fracciones equivalentes
 
 La técnica consiste en multiplicar los denominadores por un número que los convierta en un mismo denominador, y a los numeradores multiplicarlos por ese mismo número, por ejemplo:
-$$
-\frac{7}{10} - \frac{5}{8}
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari04.png" alt="" />
+</p>
 Qué número en común podrían tener 10 y 8. En este caso sería 40, porque 40 es divisible entre 10 y 8. Entonces, 10 por 4 es 40 y también debemos multiplicar por 4 al numerador, es decir 7 por 4. Con el denominador 8 si lo multiplicamos por 5 da 40, repetimos el proceso con el numerador.
-$$
-\frac {7 \times 4}{10 \times 4} - \frac {5 \times 5}{8 \times 5} = \frac{28}{40} - \frac{25}{40}
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari05.png" alt="" />
+</p>
 
 
 Ahora que tenemos los denominadores igualados podemos restar normalmente y si es posible despejar la fracción.
-$$
-\frac{28}{40} - \frac{25}{40} = \frac{3}{40}
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari06.png" alt="" />
+</p>
 
 
 > Mira el [video de la explicación](https://youtu.be/BuGyx2VrGRE)
@@ -326,9 +327,9 @@ Para multiplicar dos fracciones, basta multiplicar los numeradores por una parte
 Podemos despejar una fracción antes de realizar la operación. Este atajo se conoce como "cancelación" y consiste en dividir de forma cruzada mediante un factor común. Ejemplo,
 
 
-$$
-\frac{21}{2} \times \frac{18}{7} = \frac{3}{1} \times \frac{9}{1}
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari07.png" alt="" />
+</p>
 
 
 El factor común de 21 y 7 es 7, por lo que podemos despejar y el factor común de 18 y 2 es 2 así que también podemos despejar.
@@ -342,9 +343,9 @@ En el caso de dividir fracciones, saltándome el porqué se hace así, el métod
 
 
 Ejemplo para quien no entendió la imagen:
-$$
-\frac{\frac{6}{3}}{\frac{12}{4}} = \frac{6}{3} \div \frac{12}{4} = \frac{6 \cdot 4}{3 \cdot 12}
-$$
+<p align="center">
+<img src="https://estasleyendoesto.github.io/assets/res/ari08.png" alt="" />
+</p>
 
 
 
