@@ -1,6 +1,7 @@
-# Matemáticas para programadores I
-
-
+---
+layout: post
+title: "Matemáticas para programadores"
+---
 
 ## Introducción
 
@@ -29,5 +30,5 @@ Por lo que para la programación necesitamos saber:
 - Valor absoluto
 - Redondear
 
-
+> Ir al post siguiente [este enlace](https://estasleyendoesto.github.io/2020/12/06/Aritmética.html)...
 
