@@ -188,9 +188,9 @@ Como puedes observar, toma siempre un valor mayor o igual que cero.
 
 Además, representa la **distancia del número al 0**. Esto es muy fácil de observar en la recta numérica:
 
-<p align="center>
+
 <img src="https://www.smartick.es/blog/wp-content/uploads/ValorAbsoluto_9.png" style="zoom:80%;" />
-</p>
+
 
 
 
