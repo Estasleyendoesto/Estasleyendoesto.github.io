@@ -210,12 +210,14 @@ En [matemáticas](https://es.wikipedia.org/wiki/Matemáticas), una **fracción**
 Se suman o se restan los numeradores y se mantiene el denominador.
 
 
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-dc831d4c013187206230bf8143c67076_l3.png" alt="" />
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-dc831d4c013187206230bf8143c67076_l3.png)
 
-
-
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-8c2242780c2a5a0c89f987b39005b344_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-8c2242780c2a5a0c89f987b39005b344_l3.png" alt="" />
+</p>
 
 
 
@@ -224,12 +226,14 @@ Se suman o se restan los numeradores y se mantiene el denominador.
 Esta sería la forma tradicional de operar con fracciones de distinto denominador.
 
 
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-fa34943bf99aea5694fc785018347ca2_l3.png" alt="" />
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-fa34943bf99aea5694fc785018347ca2_l3.png)
 
-
-
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-aa1dbc22e0bb1871aa6e01e2bcab0988_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-aa1dbc22e0bb1871aa6e01e2bcab0988_l3.png" alt="" />
+</p>
 
 
 
@@ -245,8 +249,9 @@ Es bastante intuitivo, pero si queremos operar de forma a lápiz y papel podemos
 
 Buscamos el mcm de dos o más números, en nuestro caso los denominadores 180 y 324. Entonces a cada denominador lo dividimos entre algún [número primo](https://es.wikipedia.org/wiki/Número_primo#:~:text=En%20matemáticas%2C%20un%20número%20primo,por%20lo%20tanto%2C%20pueden%20factorizarse.) hasta que el residuo sea 1.
 
-<img src="https://cuadernos.rubio.net/media/magpleasure/mpblog/upload/e/a/ea61a4ce0fd7fb36b5c2631028c3e38c.png" style="zoom: 50%;" />
-
+<p align="center">
+<img src="https://cuadernos.rubio.net/media/magpleasure/mpblog/upload/e/a/ea61a4ce0fd7fb36b5c2631028c3e38c.png" style="zoom: 50%;" alt="" />
+</p>
 
 
 
@@ -274,21 +279,29 @@ Entonces el **m.c.m** de 180 y 324 es 1620
 
 Tenemos la fracción:
 
-![](https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-4.gif)
+<p align="center">
+<img src="https://cuadernos.rubio.net/media/magpleasure/mpblog/upload/e/a/ea61a4ce0fd7fb36b5c2631028c3e38c.png" alt="" />
+</p>
 
 y queremos conseguir que su denominador sea el número 6, es decir:
 
-![](https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-6.png)
+<p align="center">
+<img src="https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-6.png" alt="" />
+</p>
 
 Tienes que pensar por qué número se ha multiplicado el 3 (el denominador) para obtener el número 6… ¡Eso es! Se ha multiplicado por 2.
 
 Por tanto, el numerador también habrá que multiplicarlos por 2 .
 
-<img src="https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-6-1.png" style="zoom:80%;" />
+<p align="center">
+<img src="https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-6-1.png" style="zoom:80%;" alt="" />
+</p>
 
 si multiplicamos el número 2 por 2 obtenemos 4.
 
-<img src="https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-7.png" style="zoom:80%;" />
+<p align="center">
+<img src="https://www.smartick.es/blog/wp-content/uploads/CodeCogsEqn-7.png" style="zoom:80%;" alt="" />
+</p>
 
 Acabamos de hallar la fracción equivalente.
 
@@ -368,27 +381,42 @@ Para redondear números decimales tenemos que fijarnos en la unidad decimal post
 
 Si la unidad decimal es mayor o igual que ![5](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-b35a08a3a770db22b654b89e2ebf58e1_l3.png), aumentamos en una unidad la unidad decimal anterior; en caso contrario, la dejamos como está.
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-a936d14a2d8155c3f94e51573473fd74_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-a936d14a2d8155c3f94e51573473fd74_l3.png" alt="" />
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-c799ec5a5451174da864eacc1eef5866_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-c799ec5a5451174da864eacc1eef5866_l3.png" alt="" />
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-ddf514a83f14c34837a3ab7c67a8174c_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-ddf514a83f14c34837a3ab7c67a8174c_l3.png" alt="" /></p>
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-b17b31bbb2aec044c69115412cf89953_l3.png)
-
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-b17b31bbb2aec044c69115412cf89953_l3.png" alt="" /></p>
+</p>
 
 
 ### Truncar decimales
 
 Para truncar un número decimal hasta un orden determinado se colocan las cifras anteriores a ese orden inclusive, eliminando las demás.
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4c3d2540f959f4c95f7b8d43e2f85590_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4c3d2540f959f4c95f7b8d43e2f85590_l3.png" alt="" /></p>
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4853c86de3c81e5ef88de38e5703dee8_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-4853c86de3c81e5ef88de38e5703dee8_l3.png" alt="" /></p>
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-6c737b5aec7d7392157322cc03bd62ac_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-6c737b5aec7d7392157322cc03bd62ac_l3.png" alt="" /></p>
+</p>
 
-![](https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-f247c0dd885a74dd5f229b7d822a46d7_l3.png)
+<p align="center">
+<img src="https://www.superprof.es/apuntes/wp-content/ql-cache/quicklatex.com-f247c0dd885a74dd5f229b7d822a46d7_l3.png" alt="" /></p>
+</p>
 
 
 
