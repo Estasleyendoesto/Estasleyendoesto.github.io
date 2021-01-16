@@ -5,7 +5,7 @@ title: "C++ · Primeros pasos"
 
 Breves apuntes para recordar el funcionamiento de C.
 
-> C++ es básicamente C pero con librerías y con algunas mínimas diferencias
+> C++ es básicamente C pero con librerías y algunas mínimas diferencias
 
 C++ es un lenguaje de programación multiparadigma de bajo nivel ampliamente utilizado en todos los sectores. Por dar un ejemplo: videojuegos, sistemas operativos como Windows o Linux están creados en C++.
 
