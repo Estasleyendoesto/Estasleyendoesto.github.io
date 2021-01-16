@@ -1,4 +1,7 @@
-# C++ · Ordenación
+---
+layout: post
+title: "C++ · Ordenación"
+---
 
 Métodos de ordenación de elementos de un vector.
 
