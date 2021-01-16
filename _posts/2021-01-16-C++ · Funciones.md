@@ -1,4 +1,7 @@
-# C++ · Funciones
+---
+layout: post
+title: "C++ · Funciones"
+---
 
 Quién no sabe lo que es una función... El secreto del código limpio, legible, reutilizable y eficiente.
 
