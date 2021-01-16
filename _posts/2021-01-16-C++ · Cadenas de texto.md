@@ -1,5 +1,3 @@
-# C++ · Cadenas de texto
-
 Existen dos formas para trabajar con cadenas de texto:
 
 - Mediante el uso de la clase string, usa UTF8
