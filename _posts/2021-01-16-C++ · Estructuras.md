@@ -1,3 +1,8 @@
+---
+layout: post
+title: "C++ · Estructuras"
+---
+
 En c++ se pueden almacenar colecciones de datos de distintos tipos de dato, a diferencia de los arreglos.
 
 > Una enseñanza más completa [si sigues este enlace](https://www.geeksforgeeks.org/structures-in-cpp/)
