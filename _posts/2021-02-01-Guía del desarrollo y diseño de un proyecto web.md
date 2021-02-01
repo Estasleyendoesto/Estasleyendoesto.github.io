@@ -175,11 +175,11 @@ Existen una serie de principios que todo desarrollador web debería de considera
 
 Existen muchos tipos de páginas web con estructuras bien marcadas. Yo he hecho los deberes y aquí te dejo un estupendo enlace en el que podrás profundizar.
 
-> https://weblium.com/blog/types-of-websites-with-guides-and-examples/
+> [https://weblium.com/blog/types-of-websites-with-guides-and-examples/](https://weblium.com/blog/types-of-websites-with-guides-and-examples/)
 
 
 
- #### Principios universales del diseño web
+#### Principios universales del diseño web
 
 Estos son unos principios realmente útiles que recomiendo encarecidamente su lectura.
 
@@ -187,13 +187,13 @@ Estos son unos principios realmente útiles que recomiendo encarecidamente su le
 
 ##### Principios del diseño web
 
-> https://cxl.com/blog/universal-web-design-principles/
+> [https://cxl.com/blog/universal-web-design-principles/](https://cxl.com/blog/universal-web-design-principles/)
 >
-> https://webnaut.jp/design/620.html
+> [https://webnaut.jp/design/620.html](https://webnaut.jp/design/620.html)
 
 ##### Teorías del diseño
 
-> https://blog.members.co.jp/article/27997
+> [https://blog.members.co.jp/article/27997](https://blog.members.co.jp/article/27997)
 
 
 
@@ -205,17 +205,17 @@ El problema es que como no tienes ni idea de nada es razón más que suficiente 
 
 Básicamente vas a buscar las páginas que más te gusten no descuidando UX, crearás tus wireframes y diseñarás tus páginas web en base a estas páginas pero procura no copiar y crear algo que te distinga. Por ejemplo hacer una mezcla de varias, etcétera.
 
-> http://webds-magazine.com
+> [http://webds-magazine.com](http://webds-magazine.com)
 >
-> https://web.bridge-net.jp/blog/5555/
+> [https://web.bridge-net.jp/blog/5555/](https://web.bridge-net.jp/blog/5555/)
 >
-> https://mynavi-creator.jp/knowhow/article/cool-web-design-portfolio-sites
+> [https://mynavi-creator.jp/knowhow/article/cool-web-design-portfolio-sites](https://mynavi-creator.jp/knowhow/article/cool-web-design-portfolio-sites)
 >
-> https://randomwire.com/why-japanese-web-design-is-so-different/
+> [https://randomwire.com/why-japanese-web-design-is-so-different/](https://randomwire.com/why-japanese-web-design-is-so-different/)
 >
-> https://designmodo.com/japanese-web-design/
+> [https://designmodo.com/japanese-web-design/](https://designmodo.com/japanese-web-design/)
 >
-> https://designmodo.com/japan-websites/
+> [https://designmodo.com/japan-websites/](https://designmodo.com/japan-websites/)
 
 
 
