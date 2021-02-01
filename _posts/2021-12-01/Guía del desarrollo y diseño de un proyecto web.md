@@ -1,6 +1,7 @@
-# Guía del desarrollo y diseño de un proyecto web
-
-
+---
+layout: post
+title: "Guía del desarrollo y diseño de un proyecto web"
+---
 
 ## Definir el tipo de negocio
 
