@@ -219,6 +219,24 @@ Básicamente vas a buscar las páginas que más te gusten no descuidando UX, cre
 
 
 
+### Tips del profesional
+- Recordatorio de membresía, ventajas y productos vistos anteriormente, compras recientes o habituales o lo que podría interesar
+- Mostrar los siguientes pasos a seguir para realizar una compra o para los registros
+- Resaltar menús emergentes con sombra, constraste o desvanecimiento
+- La navegación adhesiva (scroll) en una página muy extensa o infinita no debe ser intrusiva. Se aconseja poner una ventana flotante arriba con el logotipo para acceder rápidamente (abajo es intrusivo). 
+- Evitar javascript y flash en las barras de navegación.
+- Limitar el número de elementos del menú. Los contenidos más importantes en primer lugar y la lista debe tener como máximo ocho elementos.
+- Usar rutas de navegación de máximo tres capas de profundidad. Evita que el usuario de al botón de atrás y se mueva rápidamente a un punto anterior (solo usar con el contenido principal y no sitios externos).
+- Evitar etiquetas de navegación genéricas para el SEO.
+- La carga del sitio web debe ser rápida (máximo tres segundos de espera).
+- El móvil es más importante y debe verse mejor que en el navegador.
+- Apostar por un diseño simple, limpio, minimalista que solo muestre la información más importante.
+- Volver a sitios web estáticos en la medida de lo posible (pantallas de carga ultra rápidas).
+- La tipografía es muy importante para dar personalidad a nuestro logotipo y sitios web.
+- Los sitios web deben contar con más imágenes, gifs y videos que texto.
+- Ante mucha información en nuestro sitio web, podemos resaltar los elementos más importantes al mostrarlos más llamativos (aislarlo del resto de elementos con grandes espacios, colores llamativos, más grandes).
+- Los ojos del ser humano normalmente se centran en la parte superior izquiera de la pantalla o en el centro. Aprovechar esta primera vista del usuario para poner la información más importante.
+- Para la carga más rápida optimizar las imágenes, las librerías y los documentos de nuestro sitio web. Los ficheros css, js o html demasiado largos hacen que la carga sea más lenta (fraccionarlo). No es mala idea tener dos o más versiones de una imagen en nuestro sitio web (uno para la miniatura y otro cuando se exapanda). Podemos comprimir un documento CSS, HTML o JS a cambio de la ilegibilidad (quitando los saltos de línea, espacios y tabulaciones).
 
 
 ## Implementación
