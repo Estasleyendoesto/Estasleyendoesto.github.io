@@ -22,23 +22,23 @@ Una fracción `2⁄5` es exactamente igual a decir `2 ÷ 5` y en un lenguaje de 
 
 Para multiplicar dos fracciones simplemente multiplicas los numeradores por un lado y luego los denominadores por otro lado. Cuando multiplicas una fracción con un número entero, recuerda que al número entero debes añadirle el denominador 1.
 
-![multiplierfracc](../assets/res/multiplierfracc.png)
+![multiplierfracc](/assets/res/multiplierfracc.png)
 
 ### Dividir fracciones
 
 Para dividir `2⁄5` entre `3⁄7` simplemente invierte `3⁄7` a `7⁄3` y multiplica normalmente.
 
-![fraccfdivir](../assets/res/fraccfdivir.png)
+![fraccfdivir](/assets/res/fraccfdivir.png)
 
 ### Adición y sustracción de fracciones
 
 También conocido como sumas y restas, son un poco más complicadas que los anteriores. Si las fracciones tienen el mismo denominador, tan solo debes operar normalmente ignorando los denominadores.
 
-<img src="../assets/res/ari06.png" alt="ari06" style="zoom: 150%;" />
+<img src="/assets/res/ari06.png" alt="ari06" style="zoom: 150%;" />
 
 Pero qué ocurre si queremos operar con fracciones que tengan un denominador distinto. Afortunadamente, el método más rápido es hacer una multiplicación en cruz. Tenga en cuenta que solo puede hacerse entre dos fracciones, si hay tres primero debemos operar con las dos primeras y al resultado con la tercera y así sucesivamente.
 
-![cruzmulti](../assets/res/cruzmulti.png)
+![cruzmulti](/assets/res/cruzmulti.png)
 
 Sea suma o resta solo debemos cambiarle de signo. Para conseguir que tengan el mismo denominador, las multiplicamos. Para el primer numerador extraemos el numerador de la primera fracción y la multiplicamos por el denominador de la segunda. Para el segundo numerador extraemos el numerador de la segunda fracción y la multiplicamos por el denominador de la primera.
 
@@ -82,7 +82,7 @@ El ratio 4:3, por ejemplo, es el equivalente a la fracción 4⁄3. Dos objetos e
 
 Frecuentemente, las proporciones son usados para describir como se divide algo. Podemos optar por dividir un pastel en una proporción 1:2 haciendo que una pieza sea dos veces más grande que la otra, de tal forma que:
 
-![factpast](../assets/res/factpast.png)
+![factpast](/assets/res/factpast.png)
 
 En otras palabras, puedes dividir el pastel en dos piezas. Uno a 1⁄3 del tamaño original, otro a 2⁄3 del tamaño original.
 
